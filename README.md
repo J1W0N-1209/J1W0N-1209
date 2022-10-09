@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=J1W0N&fontSize=90)
 
+![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
+
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 
