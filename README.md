@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=J1W0N&fontSize=90)
 
-![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
+
 
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
@@ -11,7 +11,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  
 </p>
+
+<h1 align="center">🌹 Me 🌹</h1>
+
+<p align="center">
+  ![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
+</p>
+
 
 
