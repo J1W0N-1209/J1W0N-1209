@@ -15,7 +15,8 @@
 
 <h1 align="center">🌹 Me 🌹</h1>
 
-![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
-
+<div algin="center"> 
+  ![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
+</div>
 
 
