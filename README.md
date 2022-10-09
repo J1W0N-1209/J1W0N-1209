@@ -3,4 +3,8 @@
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
+</p>
+
 
