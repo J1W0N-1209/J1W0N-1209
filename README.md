@@ -23,9 +23,6 @@
   
   ![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
   
-  <br>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiw0n)](https://solved.ac/jiw0n/)
 </div>
 
 
