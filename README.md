@@ -33,4 +33,10 @@
   
 </div>
 
+<div align="center">
+
+<h1 align="center"> 🏆 CAREER 🏆</h1>
+<p>제8회 한세사이버보안고 중학생 정보보안 콘테스트 3rd (동상)</p>
+
+</div>
 
