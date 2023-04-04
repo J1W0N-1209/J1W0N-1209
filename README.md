@@ -26,13 +26,6 @@
   
 </div>
 
-<h1 align="center">📒 Baekjoon 📒</h1>
-
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiw0n)](https://solved.ac/jiw0n/)
-  
-</div>
 
 <div align="center">
 
