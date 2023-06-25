@@ -5,6 +5,7 @@ PHP,Flask,Spring을 이용해서 백엔드 개발을 하고있습니다.<br>
 
 - 2022 HISCON CTF 3th (동상)
 - 2022 Hacking Championship Junior 9th (장려상)
+- 2023 사이버공격방어대회 본선 진출
 
 <hr>
 
